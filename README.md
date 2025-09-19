@@ -57,7 +57,6 @@
 <p>
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=JEGSON" />
 </p>
-
 🤝 Let's Collaborate
 
 Always excited to exchange ideas on automation, observability, and platform reliability. Feel free to reach out if you'd like to pair up on a DevOps experiment or infrastructure challenge!
